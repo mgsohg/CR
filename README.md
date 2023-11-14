@@ -1,4 +1,3 @@
-# CR (cross_representations)
 
 # CR (Optimal Proportional Balance)
 ___
